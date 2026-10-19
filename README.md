@@ -24,3 +24,9 @@ The `recipe-grove.svg` wallpaper is original. Recipe Grove OS is an independent 
 
 See [FEATURES.md](FEATURES.md) for three local tools included for cooking and meal planning.
 
+
+The installer also includes three purpose-specific applications: **GNOME Calendar, Audacity, KeePassXC**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **GNOME Calendar, Audacity, KeePassXC**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **GNOME Calendar, GIMP, Audacity**. See [FEATURES.md](FEATURES.md).

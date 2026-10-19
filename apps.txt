@@ -3,3 +3,8 @@ org.libreoffice.LibreOffice
 com.github.johnfactotum.Foliate
 org.mozilla.firefox
 com.opera.opera-gx
+
+# Three additional preinstalled purpose-specific applications
+org.gnome.Calendar
+org.gimp.GIMP
+org.audacityteam.Audacity
